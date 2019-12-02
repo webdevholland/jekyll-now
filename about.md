@@ -8,6 +8,8 @@ Hello! I'm a data analyst, mom and wife trying to make it a little easier to tra
 
 The *Bit Of X* blog title is partly a nod to #100DaysOfX. I also wanted to incorporate the word "bit" in the title because it can represent either a little amount of something or the smallest unit of computer data. While the computing reference ties in perfectly with the parts in my blog about my #100DaysOfCode progress, it's actually the first definition - "a little amount of something" - that is more meaningful to me. Because whether it's learning to code or having a more varied fitness routine, positive change can be brought about by taking small steps towards your goals.
 
+I hope to continue updating this blog even after I completed the #100DaysOfCode and #100DaysOfFitness challenges. Maybe I can use this blog to help motivate me to get back to rock painting (which I love!), read more, sleep better, etc.
+
 ### More Information
 
 Below were the logs I was previously updating:
