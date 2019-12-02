@@ -4,9 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Hello! :wave: I'm a data analyst, mom and wife trying to make it a little easier to track my progress as I take on [#100DaysOfCode](https://www.100daysofcode.com/) and [#100DaysOfFitness](https://www.100daysofx.com/) challenges... so I decided to start this blog! I was previously keeping track of these challenges at different sites, but will blog about both here instead.
+Hello! I'm a data analyst, mom and wife trying to make it a little easier to track my progress as I take on [#100DaysOfCode](https://www.100daysofcode.com/) and [#100DaysOfFitness](https://www.100daysofx.com/) challenges... so I decided to start this blog! I was previously keeping track of these challenges at different sites, but will blog about both here instead.
 
-I decided to title this blog *Bit Of X* not only as a nod to #100DaysOfX, but also as a gentle reminder to myself that change can happen gradually, like small building blocks. I also like how "bit" can mean both a little amount of anything as well as the smallest unit of computer data.
+The *Bit Of X* blog title is partly a nod to #100DaysOfX. I wanted to also incorporate the word "bit" in the title because it can represent either a little amount of something or the smallest unit of computer data. While the computing reference ties in perfectly with my #100DaysOfCode progress which I'll blog about, it's actually the first definition - "a little amount of something" - that is more meaningful to me. Because whether it's learning to code or having a more varied fitness routine, positive change can be brought about by taking baby steps towards your goals.
 
 ### More Information
 
@@ -16,11 +16,9 @@ Below were the logs I was previously updating:
 
 The header profile photo is by [phil sheldon ABIPP](https://unsplash.com/@sploshd?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/photos/Xpihv46a5bc). I cropped the original Unsplash photo and then optimized it with [Jpeg.io](https://www.jpeg.io/).
 
-Two GitHub cheat sheets I refer to when working on this blog are:
-* [Adam Pritchard's Markdown Cheat Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) 
-* [ikatyang's Emoji Cheat Sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
+I refer to [Adam Pritchard's Markdown Cheat Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) when working on this blog.
 
-Finally, I wouldn't have been able to create this blog if it wasn't for [Barry Clark's fabulous guide at Smashing Magazine](https://www.smashingmagazine.com/2014/08/build-blog-jekyll-github-pages/). Thank you so much Barry!!! :smiley:
+Finally, I wouldn't have been able to create this blog if it wasn't for [Barry Clark's fabulous guide at Smashing Magazine](https://www.smashingmagazine.com/2014/08/build-blog-jekyll-github-pages/). Thank you so much Barry!!!
 
 <!--- ### Contact me --->
 
