@@ -20,7 +20,7 @@ The header profile photo is by [phil sheldon ABIPP](https://unsplash.com/@splosh
 
 [Adam Pritchard's Markdown Cheat Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) comes in handy when updating this blog.
 
-Finally, I wouldn't have been able to create this blog if it wasn't for [Barry Clark's fabulous guide at Smashing Magazine](https://www.smashingmagazine.com/2014/08/build-blog-jekyll-github-pages/). Thank you so much Barry!!!
+Finally, I wouldn't have been able to create this blog if it wasn't for [Barry Clark's fabulous guide at Smashing Magazine](https://www.smashingmagazine.com/2014/08/build-blog-jekyll-github-pages/). Thank you so much Barry!!! :smiley:
 
 <!--- ### Contact me --->
 
