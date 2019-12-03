@@ -18,7 +18,9 @@ Below were the logs I was previously updating:
 
 The header profile photo is by [phil sheldon ABIPP](https://unsplash.com/@sploshd?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/photos/Xpihv46a5bc). I cropped the original Unsplash photo using [Microsoft Paint](https://en.wikipedia.org/wiki/Microsoft_Paint) and then optimized it with [Jpeg.io](https://www.jpeg.io/).
 
-[Adam Pritchard's Markdown Cheat Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) comes in handy when updating this blog.
+Here are a couple of cheat sheets I refer to when working on this blog:
+* [Adam Pritchard's Markdown Cheat Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+* [ikatyang's GitHub Emoji Cheat Sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md) - since this is a Jekyll-powered blog, I did have to install a [Jemoji](https://github.com/jekyll/jemoji) plugin so the emojis could render properly.
 
 Finally, I wouldn't have been able to create this blog if it wasn't for [Barry Clark's fabulous guide at Smashing Magazine](https://www.smashingmagazine.com/2014/08/build-blog-jekyll-github-pages/). Thank you so much Barry!!! :smiley:
 
