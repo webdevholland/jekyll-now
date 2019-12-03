@@ -20,7 +20,7 @@ The header profile photo is by [phil sheldon ABIPP](https://unsplash.com/@splosh
 
 Here are a couple of cheat sheets I refer to when working on this blog:
 * [Adam Pritchard's Markdown Cheat Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
-* [ikatyang's GitHub Emoji Cheat Sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md) - since this is a Jekyll-powered blog, I did have to install a [Jemoji](https://github.com/jekyll/jemoji) plugin so the emojis could render properly.
+* [ikatyang's GitHub Emoji Cheat Sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md) - since this is a Jekyll-powered blog, I did have to install a [Jemoji](https://github.com/jekyll/jemoji) plugin so the emoji could render properly.
 
 Finally, I wouldn't have been able to create this blog if it wasn't for [Barry Clark's fabulous guide at Smashing Magazine](https://www.smashingmagazine.com/2014/08/build-blog-jekyll-github-pages/). Thank you so much Barry!!! :smiley:
 
