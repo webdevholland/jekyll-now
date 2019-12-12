@@ -1,6 +1,6 @@
 ---
 layout: post
-title: One blog for my progress in coding & fitness
+title: First Blog
 ---
 
 Building my first blog site was on my list of things I to do, but I didn't think I would get around to it until later... like after completing [Brad Schiff's JavaScript course on Udemy](https://www.udemy.com/course/learn-javascript-full-stack-from-scratch/). Fortunately, Barry Clark made it super easy for me to publish this blog today with his [awesome guide at Smashing Magazine](https://www.smashingmagazine.com/2014/08/build-blog-jekyll-github-pages/).  Now instead of trying to track my [#100DaysOfCode](https://www.100daysofcode.com/) progress [here](https://github.com/webdevholland/100-days-of-code/blob/master/log.md#100-days-of-code---log) and my [#100DaysOfFitness](https://twitter.com/search?f=tweets&q=%23100DaysOfFitness&src=typd) progress [there](https://docs.google.com/document/d/11T8-AI0RzqrGjwh-CO2cs4mVpR3vsYsXwRTe9I3CGDc/edit?usp=sharing), I can finally blog about both on this site. Hopefully, updating only this site will help me Tweet about how I'm doing with these challenges on a daily basis.
