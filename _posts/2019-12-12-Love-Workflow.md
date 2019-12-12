@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Love Jekyll & GitHub workflow
+title: Love Workflow
 ---
 
 I think I’m hooked on using [Jekyll themes](https://jekyllrb.com/docs/themes/) and hosting with [GitHub Pages](https://pages.github.com/). I found a Jekyll theme with an elegant portfolio layout called [\*folio](http://bogoli.github.io/-folio/) by [Lia Bogoev](https://github.com/bogoli). It’s what I’m now using to showcase my [projects](https://www.webdevholland.com/portfolio/projects/).
