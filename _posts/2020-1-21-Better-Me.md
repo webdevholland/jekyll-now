@@ -27,7 +27,7 @@ Here are some of the positive things I got out of [#100DaysOfCode](https://www.1
 I started [#100DaysOfFitness](https://twitter.com/search?f=tweets&q=%23100DaysOfFitness&src=typd) only a few days after I committed to [#100DaysOfCode](https://www.100daysofcode.com/) and benefitted in these ways:
 
 * I discovered how wonderfully comfortable it was to jog in my new [Brooks 11 Ghost running shoes](https://www.brooksrunning.com/en_us/brooks-running-shoes-ghost-11-womens/120277.html).
-* I slowly increased my jogging distance and was able to get up to 2.5 miles (prior to [#100DaysOfFitness](https://twitter.com/search?f=tweets&q=%23100DaysOfFitness&src=typd), I was doing only a moderate amount of walking and hadn’t jogged in years).
+* I slowly increased my jogging distance and was able to get up to 2.5 miles (prior to [#100DaysOfFitness](https://twitter.com/search?f=tweets&q=%23100DaysOfFitness&src=typd), I was only doing a moderate amount of walking and hadn’t jogged in years).
 *	I downloaded a [pedometer app](https://play.google.com/store/apps/details?id=pedometer.stepcounter.calorieburner.pedometerforwalking&hl=en) to my phone to not only track my jogging and walking, but to keep me motivated as well.
 *	I started training with martial arts weapons called [kamas](https://en.wikipedia.org/wiki/Kama_(weapon)).
 *	I followed along with yoga routines on [YouTube](https://www.youtube.com/) such as:
