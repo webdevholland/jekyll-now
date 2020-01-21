@@ -22,7 +22,7 @@ Here are some of the positive things I got out of [#100DaysOfCode](https://www.1
   - Listening to [Udemy JavaScript course videos](https://www.udemy.com/course/learn-javascript-full-stack-from-scratch/) while driving to and from work.
   - Listening to web development podcasts by [Sytax.fm](https://syntax.fm/) while going for a jog.
   - Practicing JavaScript on the [Grasshopper app](https://grasshopper.app/) whenever I was waiting for my take-out order at a restaurant.
-* I was eager to also take on [#100DaysOfFitness](https://twitter.com/search?f=tweets&q=%23100DaysOfFitness&src=typd).
+* I became eager to also take on [#100DaysOfFitness](https://twitter.com/search?f=tweets&q=%23100DaysOfFitness&src=typd).
 
 I started [#100DaysOfFitness](https://twitter.com/search?f=tweets&q=%23100DaysOfFitness&src=typd) only a few days after I committed to [#100DaysOfCode](https://www.100daysofcode.com/) and benefitted from the second challenge in these ways:
 
