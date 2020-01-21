@@ -24,26 +24,26 @@ Here are some of the positive things I got out of [#100DaysOfCode](https://www.1
   - Practicing JavaScript on the [Grasshopper app](https://grasshopper.app/) whenever I was waiting for my take-out order at a restaurant.
 * I was eager to also take on [#100DaysOfFitness](https://twitter.com/search?f=tweets&q=%23100DaysOfFitness&src=typd).
 
-I started [#100DaysOfFitness](https://twitter.com/search?f=tweets&q=%23100DaysOfFitness&src=typd) only a few days after I committed to [#100DaysOfCode](https://www.100daysofcode.com/) and benefitted in these ways:
+I started [#100DaysOfFitness](https://twitter.com/search?f=tweets&q=%23100DaysOfFitness&src=typd) only a few days after I committed to [#100DaysOfCode](https://www.100daysofcode.com/) and benefitted from the second challenge in these ways:
 
 * I discovered how wonderfully comfortable it was to jog in my new [Brooks 11 Ghost running shoes](https://www.brooksrunning.com/en_us/brooks-running-shoes-ghost-11-womens/120277.html).
 * I slowly increased my jogging distance and was able to get up to 2.5 miles (prior to [#100DaysOfFitness](https://twitter.com/search?f=tweets&q=%23100DaysOfFitness&src=typd), I was doing only a moderate amount of walking and hadn’t jogged in years).
 *	I downloaded a [pedometer app](https://play.google.com/store/apps/details?id=pedometer.stepcounter.calorieburner.pedometerforwalking&hl=en) to my phone to not only track my jogging and walking, but to keep me motivated as well.
 *	I started training with martial arts weapons called [kamas](https://en.wikipedia.org/wiki/Kama_(weapon)).
 *	I followed along with yoga routines on [YouTube](https://www.youtube.com/) such as:
-  - [Yoga For Sleep - Easy Bedtime Yoga - 5 Minute Miracle](https://youtu.be/xP5j5U-h-jM)
-  - [Morning Yoga Flow For Energy](https://youtu.be/VulzDLPwJLs)
-  - [5 Minute Yoga - Morning Yoga for Beginners - Yoga With Bird](https://youtu.be/nw-TAMUWP3g)
+       - [Yoga For Sleep - Easy Bedtime Yoga - 5 Minute Miracle](https://youtu.be/xP5j5U-h-jM)
+       - [Morning Yoga Flow For Energy](https://youtu.be/VulzDLPwJLs)
+       - [5 Minute Yoga - Morning Yoga for Beginners - Yoga With Bird](https://youtu.be/nw-TAMUWP3g)
 *	Since working out on an elliptical machine, I learned to get used to its feel and settings.
 
 There were also overall rewards that I gained from both [#100DaysOfCode](https://www.100daysofcode.com/) and [#100DaysOfFitness](https://twitter.com/search?f=tweets&q=%23100DaysOfFitness&src=typd):
 
 *	I wrote more and in various places:
-  - [Twitter](https://twitter.com/webdevholland)
-  - Little journals I carried almost everywhere with me
-  - [My GitHub log](https://github.com/webdevholland/100-days-of-code/blob/master/log.md#100-days-of-code---log)
-  - [Google Docs](https://drive.google.com/open?id=11T8-AI0RzqrGjwh-CO2cs4mVpR3vsYsXwRTe9I3CGDc)
-  - This [blog](https://www.webdevholland.com/)! :blush:
+       - [Twitter](https://twitter.com/webdevholland)
+       - Little journals I carried almost everywhere with me
+       - [My GitHub log](https://github.com/webdevholland/100-days-of-code/blob/master/log.md#100-days-of-code---log)
+       - [Google Docs](https://drive.google.com/open?id=11T8-AI0RzqrGjwh-CO2cs4mVpR3vsYsXwRTe9I3CGDc)
+       - This [blog](https://www.webdevholland.com/)! :blush:
 * I felt supported on Twitter and I got to cheer on others who were doing the same challenges.
 * I was determined to keep moving forward.
 * I got to try new things.
