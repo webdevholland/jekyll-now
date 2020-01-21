@@ -34,7 +34,7 @@ I started [#100DaysOfFitness](https://twitter.com/search?f=tweets&q=%23100DaysOf
        - [Yoga For Sleep - Easy Bedtime Yoga - 5 Minute Miracle](https://youtu.be/xP5j5U-h-jM)
        - [Morning Yoga Flow For Energy](https://youtu.be/VulzDLPwJLs)
        - [5 Minute Yoga - Morning Yoga for Beginners - Yoga With Bird](https://youtu.be/nw-TAMUWP3g)
-*	Since working out on an elliptical machine, I learned to get used to its feel and settings.
+*	After working out on an elliptical machine, I learned to get used to its feel and settings.
 
 There were also overall rewards that I gained from both [#100DaysOfCode](https://www.100daysofcode.com/) and [#100DaysOfFitness](https://twitter.com/search?f=tweets&q=%23100DaysOfFitness&src=typd):
 
