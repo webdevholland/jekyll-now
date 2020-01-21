@@ -17,7 +17,7 @@ Here are some of the positive things I got out of [#100DaysOfCode](https://www.1
 * I put together [my first portfolio](https://www.webdevholland.com/portfolio/).
 * I got introduced to a static site generator called [Jekyll](https://jekyllrb.com/).
 * I learned to host using [GitHub Pages](https://pages.github.com/).
-* I learned about [DNS management](https://www.dynu.com/Resources/Tutorials/DynamicDNS/DNSRecordTypes) when I was trying to point my existing domain name to my [GitHub Pages](https://pages.github.com/) site.
+* I was exposed to [DNS management](https://www.dynu.com/Resources/Tutorials/DynamicDNS/DNSRecordTypes) when I was trying to point my existing domain name to my [GitHub Pages](https://pages.github.com/) site.
 * I made better use of my time by:
   - Listening to [Udemy JavaScript course videos](https://www.udemy.com/course/learn-javascript-full-stack-from-scratch/) while driving to and from work.
   - Listening to web development podcasts by [Sytax.fm](https://syntax.fm/) while going for a jog.
