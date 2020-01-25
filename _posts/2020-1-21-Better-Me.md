@@ -3,7 +3,7 @@ layout: post
 title: Better Me
 ---
 
-In December 2019, I completed both the [#100DaysOfCode](https://www.100daysofcode.com/) and [#100DaysOfFitness](https://twitter.com/search?f=tweets&q=%23100DaysOfFitness&src=typd) challenges on Twitter! :smiley: You can learn more about these challenges by checking out these links:
+In December 2019, I completed both the [#100DaysOfCode](https://www.100daysofcode.com/) and [#100DaysOfFitness](https://twitter.com/search?f=tweets&q=%23100DaysOfFitness&src=typd) challenges on Twitter! :smiley: As the names of these challenges suggest, the objectives were to code and do fitness activities everyday for 100 days. You can learn more about these challenges by checking out these links:
 
 * #100DaysOfCode Official Website: [https://www.100daysofcode.com/](https://www.100daysofcode.com/)
 * #100DaysOfX Official Website: [https://www.100daysofx.com/](https://www.100daysofx.com/) (The “X” in this challenge can be anything you want to get better at such as fitness, art or writing, just to name a few examples.)
